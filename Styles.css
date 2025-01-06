@@ -1,0 +1,19 @@
+#Box{
+    width: 900px;
+    height: 600px;
+    position: relative;
+    border: 2px solid black;
+}
+
+.Ball {
+    width: 75px;
+    height: 75px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+}
+
+.RedBall {
+    background-color: red;
+}
